@@ -10,7 +10,12 @@
     justify-content: center;
     align-items: center;
 }
-.con img{
+.con .d{
+    height: 200px;
+    width: 300px;
+    border: 1px solid black;
+}
+.con .e{
     height: 200px;
     width: 300px;
     border: 1px solid black;
